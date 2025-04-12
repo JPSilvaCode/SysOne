@@ -1,0 +1,6 @@
+@SysOne.API_HostAddress = http://localhost:5124
+
+GET {{SysOne.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
